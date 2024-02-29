@@ -18,3 +18,4 @@ python3 english_dict.py
 
 With that you can just run `dict` on your terminal and then you have it.
 
+[https://www.youtube.com/watch?v=7adYl398hhs](https://www.youtube.com/watch?v=7adYl398hhs)
