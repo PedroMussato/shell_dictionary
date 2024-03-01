@@ -110,3 +110,6 @@ while True:
 
     elif option == '0':
         break
+
+    else:
+        print("*** This option doesn't exists ***")
