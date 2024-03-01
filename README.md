@@ -19,3 +19,7 @@ python3 english_dict.py
 With that you can just run `dict` on your terminal and then you have it.
 
 [![Watch the video](https://img.youtube.com/vi/7adYl398hhs/hqdefault.jpg)](https://www.youtube.com/embed/7adYl398hhs)
+
+
+#### Note:
+This database was got from Ayesh Jayasekara, github link: https://github.com/AyeshJayasekara/English-Dictionary-SQLite/tree/master my script is only mining it. Thx bro.
